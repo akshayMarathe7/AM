@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7166" started-at="2019-03-30T04:05:07Z" finished-at="2019-03-30T04:05:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7166" started-at="2019-03-30T04:05:07Z" finished-at="2019-03-30T04:05:14Z">
+      <class name="testCases.TC_01_BrowserLooadTest">
+        <test-method status="PASS" signature="LoadBrwser()[pri:0, instance:testCases.TC_01_BrowserLooadTest@7cd62f43]" name="LoadBrwser" duration-ms="7100" started-at="2019-03-30T09:35:07Z" finished-at="2019-03-30T09:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadBrwser -->
+        <test-method status="PASS" signature="LoginProcess()[pri:1, instance:testCases.TC_01_BrowserLooadTest@7cd62f43]" name="LoginProcess" duration-ms="4" started-at="2019-03-30T09:35:14Z" finished-at="2019-03-30T09:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginProcess -->
+        <test-method status="PASS" signature="Flight_Finding()[pri:2, instance:testCases.TC_01_BrowserLooadTest@7cd62f43]" name="Flight_Finding" duration-ms="4" started-at="2019-03-30T09:35:14Z" finished-at="2019-03-30T09:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flight_Finding -->
+      </class> <!-- testCases.TC_01_BrowserLooadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
