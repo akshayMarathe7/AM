@@ -6,8 +6,7 @@ import testBase.TestBase;
 
 public class Flight_Finder extends TestBase
 {
-	// Testing pull command
-	// 15/04 test
+	
 
 	By Type_RadioBttn = By.xpath("//input[@value='oneway']");
 	By PassengerSelection_Dropdown = By.xpath("//select[@name='passCount']/option[text()='2 ']");
