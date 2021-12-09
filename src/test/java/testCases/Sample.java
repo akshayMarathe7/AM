@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Sample
 {
-
+	//Sample.java pulling code
 	public static void main(String[] args) throws InterruptedException 
 	{
 		System.setProperty("webdriver.chrome.driver", "E:\\\\Soft\\\\Selenium\\\\ChromeDriver1\\\\chromedriver.exe");
